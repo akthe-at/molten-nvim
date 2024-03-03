@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/benlubas/molten-nvim/compare/v1.7.0...v1.8.0) (2024-03-03)
+
+
+### Features
+
+* execution time ([#153](https://github.com/benlubas/molten-nvim/issues/153)) ([12fc198](https://github.com/benlubas/molten-nvim/commit/12fc198e1dac89cde3e9512b2999972da01dc625))
+
 ## [1.7.0](https://github.com/benlubas/molten-nvim/compare/v1.6.0...v1.7.0) (2024-02-23)
 
 
